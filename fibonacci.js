@@ -1,4 +1,5 @@
 //Teste 2
+
 /*Funcao fibonacci*/
 function fibonacci(numero) {
     let sequencia = [0, 1];
